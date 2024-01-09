@@ -1,2 +1,2 @@
-create database db_escolaFeliz;
-use db_escolaFeliz;
+create database db_faculdadeGen;
+use db_faculdadeGen;
