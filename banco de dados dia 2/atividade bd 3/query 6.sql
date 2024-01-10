@@ -1,0 +1,1 @@
+SELECT * FROM tb_produtos WHERE preco BETWEEN 5 AND 60;
